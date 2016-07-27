@@ -1,0 +1,17 @@
+{
+	"Norway":"Northern", 
+	"United Kingdom":"Northern", 
+	"Denmark":"Northern",
+	"Sweden":"Northern",
+	"France":"Central", 
+	"Belgium":"Central", 
+	"Germany":"Central",
+	"Switzerland":"Central",
+	"Netherlands":"Central",
+	"Portugal":"Southern", 
+	"Greece":"Southern", 
+	"Italy":"Southern",
+	"Spain":"Southern",
+	"Croatia":"Southern",
+	"Albania":"Southern"
+}
