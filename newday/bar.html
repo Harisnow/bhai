@@ -4,14 +4,14 @@
 <head>
   <style>
   .bar{
-    fill: grey;
+    fill: red;
   }
   .bar:hover{
     fill: orange;
 
   }
   .stack{
-    fill:blue;
+    fill:green;
   }
   .axis {
     font: 15px sans-serif;
@@ -33,7 +33,7 @@
   d3.json("ex.json", function(error, data) {
     data.forEach(function(d) {
         d.country = d.country;
-        d.sugar_consump=+d.sugar_consump;
+        d.sugar_100g=+d.sugar_consump;
         d.salt_consump=+d.salt_consump;
         d.total=d.sugar_consump+d.salt_consump;
     });
@@ -105,23 +105,23 @@
           .attr("y", function(d) { return y(d.total); })
           .attr("height", function(d) { return height - y(d.sugar_consump); });
 
-     var linear = d3.scale.ordinal()
-   .domain(["Sugar Consumption","Salt Consumption"])
-   .range(["blue", "grey"]);
+            var linear = d3.scale.ordinal()
+               .domain(["Sugar Consumption","Salt Consumption"])
+                   .range(["green", "red"]);
 
-    var svg = d3.select("svg");
+            var svg = d3.select("svg");
 
-svg.append("g")
-      .attr("class", "legendLinear")
-     .attr("transform", "translate(1000,50)");
+            svg.append("g")
+              .attr("class", "legendLinear")
+                  .attr("transform", "translate(1000,50)");
 
-var legendLinear = d3.legend.color()
-   .shapeWidth(30)
-   .orient('vertical')
-    .scale(linear);
+            var legendLinear = d3.legend.color()
+              .shapeWidth(30)
+                 .orient('vertical')
+                    .scale(linear);
 
-svg.select(".legendLinear")
-   .call(legendLinear);
+            svg.select(".legendLinear")
+            .call(legendLinear);
 
         });
 </script>

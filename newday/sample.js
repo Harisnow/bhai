@@ -1,22 +1,20 @@
 var fs = require("fs");
-var data = fs.readFileSync('Foo.csv');
-var stringData=data.toString();
-var arrayOne= stringData.split('\n');
-var header=arrayOne[0].split(',');
+var data = fs.readFileSync('Foo.csv','utf8');
+var lines= data.split('\n');
+var header=lines[0].split(',');
 var count=0;
-var row = arrayOne.length;
+var row = lines.length;
 var col = header.length;
 sugar=header.indexOf('sugars_100g');  
 salt=header.indexOf('salt_100g');        
 countriesIn=header.indexOf('countries');  
-
 var array1=[];
 var obj1={};
 var i,j;
 var arr=["Netherlands", "Canada", "United Kingdom", "Australia", "France", "Germany", "Spain","South Africa"]
 
 for (i = 1; i < row-1; i++) {
- var rope= (arrayOne[i]).split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
+ var rope= (lines[i]).split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
   obj1[header[countriesIn]]=rope[countriesIn];
   obj1[header[sugar]]=rope[sugar];
   obj1[header[salt]]=rope[salt];

@@ -1,1 +1,840 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"x",
+				"xScale"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"ar",
+				"array1"
+			],
+			[
+				"arr",
+				"arrayOne"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"S",
+				"Salt"
+			],
+			[
+				"co",
+				"colorLegend"
+			],
+			[
+				"color",
+				"color-legend"
+			],
+			[
+				"tr",
+				"translate"
+			],
+			[
+				"inde",
+				"indexOfProteins"
+			],
+			[
+				"index",
+				"indexOfFat"
+			],
+			[
+				"line",
+				"line"
+			],
+			[
+				"region",
+				"regionWiseNutrients"
+			],
+			[
+				"indf",
+				"indexOf"
+			],
+			[
+				"re",
+				"region"
+			],
+			[
+				"c",
+				"carbohydrates_100g"
+			],
+			[
+				"fat",
+				"fat_100g"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"a",
+				"array2"
+			],
+			[
+				"sepal_",
+				"sepal_width"
+			],
+			[
+				"cir",
+				"circles"
+			],
+			[
+				"circle",
+				"circles"
+			],
+			[
+				"circ",
+				"circle"
+			],
+			[
+				"circl",
+				"circles"
+			],
+			[
+				"mve",
+				"moveBy"
+			],
+			[
+				"move",
+				"moveBox"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"func",
+				"func_name"
+			],
+			[
+				"ge",
+				"getFull"
+			],
+			[
+				"h",
+				"haran"
+			],
+			[
+				"g",
+				"getFull"
+			],
+			[
+				"f",
+				"firstN"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"go",
+				"globalFunction"
+			],
+			[
+				"gl",
+				"globalVar"
+			],
+			[
+				"in",
+				"index2"
+			],
+			[
+				"pa",
+				"pars2"
+			],
+			[
+				"pas",
+				"pars1"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bs",
+				"background-size"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"te",
+				"text-align-last"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"mra",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"fla",
+				"float"
+			],
+			[
+				"fonts",
+				"font-size-adjust"
+			],
+			[
+				"bacdk",
+				"background-image"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"BLO",
+				"blockquote"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"dl",
+				"dl	Tag"
+			],
+			[
+				"me",
+				"meta	Tag"
+			],
+			[
+				"ti",
+				"title	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bar.html",
+			"settings":
+			{
+				"buffer_size": 3386,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sample.js",
+			"settings":
+			{
+				"buffer_size": 1695,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 2344,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "line.html",
+			"settings":
+			{
+				"buffer_size": 4677,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ex2.json",
+			"settings":
+			{
+				"buffer_size": 364,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ex.json",
+			"settings":
+			{
+				"buffer_size": 732,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mapper.json",
+			"settings":
+			{
+				"buffer_size": 431,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/newday"
+	],
+	"file_history":
+	[
+		"/C/Users/trainee/Downloads/part2.html",
+		"/D/newday/d3.legend.js",
+		"/D/newday/sample2.js",
+		"/D/newday/ex.json",
+		"/D/newday/ex.js",
+		"/C/Users/trainee/Downloads/part2.js",
+		"/C/Users/trainee/Desktop/part1.js",
+		"/C/Users/trainee/Desktop/ex.js",
+		"/C/Users/trainee/Desktop/ex.json",
+		"/D/JS/index.html",
+		"/C/Users/trainee/Desktop/assign.html",
+		"/C/Users/trainee/Desktop/sample.js",
+		"/C/Users/trainee/Downloads/part1.html",
+		"/C/Users/trainee/Downloads/data1.json",
+		"/C/Users/trainee/Downloads/part1.js",
+		"/D/JS/ind.js",
+		"/D/JS/Vagrantfile",
+		"/D/Workspace/food.json",
+		"/D/boot/html2/html2-master/ws3/starter/starter/includes/css/styles.css",
+		"/D/boot/html2/html2-master/ws3/starter/starter/index.html",
+		"/D/boot/html2/html2-master/ws3/starter/starter/about.html",
+		"/D/boot/html2/html2-master/ws3/starter/starter/contact.html",
+		"/D/ws3/starter/starter/includes/css/styles.css",
+		"/D/ws3/starter/starter/index.html",
+		"/C/Users/trainee/Desktop/ws3/starter/starter/includes/css/styles.css",
+		"/C/Users/trainee/Desktop/ws3/starter/starter/domfli.html",
+		"/C/Users/trainee/Desktop/ws3/starter/starter/index.html",
+		"/C/Users/trainee/Desktop/Course_Files/Course Files/04 - Code Chunks/G - modal.html",
+		"/C/Users/trainee/Desktop/Course_Files/Course Files/04 - Code Chunks/D - callout.html",
+		"/C/Users/trainee/Desktop/Course_Files/Course Files/04 - Code Chunks/I - footer.html",
+		"/C/Users/trainee/Desktop/Course_Files/Course Files/04 - Code Chunks/B - navbar.html",
+		"/C/Users/trainee/Desktop/Course_Files/Course Files/04 - Code Chunks/A - layout.html",
+		"/C/Users/trainee/Desktop/ws3/starter/starter/bootstrap/css/bootstrap-theme.css",
+		"/C/Users/trainee/Desktop/ws3/starter/starter/bootstrap/css/bootstrap.min.css",
+		"/C/Users/trainee/Desktop/ws3/starter/starter/bootstrap/css/bootstrap.css",
+		"/D/boot/boot.html",
+		"/D/boot/includes/css/styles.css",
+		"/D/ws3/starter/index.html",
+		"/D/ws3/starter/includes/css/styles.css",
+		"/D/ws3/starter/includes/js/script.js",
+		"/C/Users/trainee/Desktop/Course_Files/Course Files/04 - Code Chunks/E - features.html",
+		"/C/Users/trainee/Desktop/Course_Files/Course Files/04 - Code Chunks/F - tabbable.html",
+		"/C/Users/trainee/Desktop/Course_Files/Course Files/04 - Code Chunks/C - carousel.html",
+		"/D/ws3/Vagrantfile",
+		"/C/Users/trainee/Desktop/starter/includes/css/styles.css",
+		"/C/Users/trainee/Desktop/style.css",
+		"/D/ws2/master/website/html/sign-in/css/animate-custom.css",
+		"/D/ws2/master/website/html/book/css/jquery-ui.css",
+		"/D/ws2/master/website/html/sign-in/css/style.css",
+		"/D/ws2/master/website/html/sign-in/sign-in.html",
+		"/D/ws2/master/website/html/about/about.html",
+		"/C/Users/trainee/Desktop/about.html",
+		"/D/ws2/web-master/website/Vagrantfile",
+		"/C/Users/trainee/Desktop/web-master/website/html/new.html",
+		"/D/ws2/master/website/html/book/book.html",
+		"/D/ws2/master/website/Vagrantfile",
+		"/D/ws2/web-master/website/.gitignore",
+		"/D/ws2/web-master/website/index.html",
+		"/D/ws2/website/html/index.html",
+		"/D/ws2/website/html/new.css",
+		"/D/ws2/website/html/new.html",
+		"/D/ws2/website/html/style.css",
+		"/C/Users/trainee/Desktop/as.html",
+		"/C/Users/trainee/Desktop/new.html",
+		"/C/Users/trainee/Desktop/exercise1.html",
+		"/D/Workspace/HTML/css/style2.css",
+		"/D/Workspace/index.html",
+		"/D/Workspace/HTML/htm/css.html",
+		"/C/Users/trainee/Desktop/new2.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"consumption",
+			"arrayOne",
+			"array1",
+			"HEIGHT",
+			"HEIGH",
+			"WIDTH",
+			"country",
+			"translate",
+			"stack",
+			"s",
+			"padd",
+			"pad",
+			"C",
+			"jArray",
+			"geo",
+			"proteins_100g",
+			"console",
+			"row",
+			"tmp",
+			"line",
+			"line ",
+			"200",
+			"100",
+			"speed",
+			">\n",
+			"blue",
+			"tabb",
+			"span",
+			"moda",
+			"MakeMyTrip",
+			"carou",
+			"thumb",
+			"alert",
+			"div",
+			"price",
+			"[",
+			"<div class=\"carousel slide\" id=\"myCarousel\">\n\n	<!-- Indicators -->\n	<ol class=\"carousel-indicators\">\n		<li class=\"active\" data-slide-to=\"0\" data-target=\"#myCarousel\"></li>\n		<li data-slide-to=\"1\" data-target=\"#myCarousel\"></li>\n		<li data-slide-to=\"2\" data-target=\"#myCarousel\"></li>\n	</ol>\n\n	<!-- Wrapper for slides -->\n	<div class=\"carousel-inner\">\n		<div class=\"item active\" id=\"slide1\">\n			<div class=\"carousel-caption\">\n				<h4>Bootstrap 3</h4>\n				<p>Learn how to build your first responsive website with the brand new Twitter Bootstrap 3!</p>\n			</div><!-- end carousel-caption-->\n		</div><!-- end item -->\n		\n		<div class=\"item\" id=\"slide2\">\n			<div class=\"carousel-caption\">\n				<h4>Learn to code a website in 4-hours!</h4>\n				<p>PSD to HTML5 &amp; CSS3 is a popular Udemy course that has helped thousands of aspiring web designers launch their web design career.</p>\n			</div><!-- end carousel-caption-->\n		</div><!-- end item -->\n		\n		<div class=\"item\" id=\"slide3\">\n			<div class=\"carousel-caption\">\n				<h4>Web Hosting 101</h4>\n				<p>Learn how to buy a perfect domain name and hosting package, and get your website live on the web with ease.</p>\n			</div><!-- end carousel-caption-->\n		</div><!-- end item -->\n	</div><!-- carousel-inner -->\n	\n	<!-- Controls -->\n	<a class=\"left carousel-control\" data-slide=\"prev\" href=\"#myCarousel\"><span class=\"icon-prev\"></span></a>\n	<a class=\"right carousel-control\" data-slide=\"next\" href=\"#myCarousel\"><span class=\"icon-next\"></span></a>\n\n</div><!-- end myCarousel -->",
+			"column",
+			"1200x500",
+			"MakeMyTrip",
+			"CONT",
+			"li",
+			"Knights"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								911,
+								955
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1716.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sample.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1383,
+								1383
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								793
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 352.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "line.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								266
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ex2.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 731.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ex.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								732,
+								732
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 6295.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "mapper.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sample.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

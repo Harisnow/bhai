@@ -22,7 +22,6 @@ for(var i = 1;i<lines.length;i++) {
 			regionWiseNutrients[regionCountryMapper[line[indexOfCountryName]]][header[indexOfProteins]] = (isNaN(parseFloat(line[indexOfProteins]))?0:parseFloat(line[indexOfProteins]));
 		else
 			regionWiseNutrients[regionCountryMapper[line[indexOfCountryName]]][header[indexOfProteins]] += (isNaN(parseFloat(line[indexOfProteins]))?0:parseFloat(line[indexOfProteins]));
-			console.log(line[indexOfProteins]);
 		if(regionWiseNutrients[regionCountryMapper[line[indexOfCountryName]]][header[indexOfCarbohydrates]] == undefined)
 			regionWiseNutrients[regionCountryMapper[line[indexOfCountryName]]][header[indexOfCarbohydrates]] = isNaN(parseFloat(line[indexOfCarbohydrates]))?0:parseFloat(line[indexOfCarbohydrates]);
 		else
@@ -33,5 +32,7 @@ for(var i = 1;i<lines.length;i++) {
 			regionWiseNutrients[regionCountryMapper[line[indexOfCountryName]]][header[indexOfFat]] += isNaN(parseFloat(line[indexOfFat]))?0:parseFloat(line[indexOfFat]);
 	}
 }
-
+var file = 'ex2.json';
+var obj=JSON.stringify(regionWiseNutrients);
 console.log(regionWiseNutrients);
+fs.writeFileSync(file, obj);
